@@ -1,4 +1,4 @@
-#include "../../src/3sum/3sum.h"
+#include "../../src/3sum/assignment.h"
 #include "test_3sum.h"
 
 #include <algorithm>

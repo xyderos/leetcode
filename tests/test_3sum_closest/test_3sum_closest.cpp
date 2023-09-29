@@ -1,4 +1,4 @@
-#include "../../src/3sum_closest/3sum_closest.h"
+#include "../../src/3sum_closest/assignment.h"
 #include "test_3sum_closest.h"
 
 #include <algorithm>
